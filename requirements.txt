@@ -1,0 +1,36 @@
+# Core Framework
+langgraph
+google-generativeai
+langchain
+langchain-google-genai
+langchain-community
+fastapi==0.104.0
+
+# AI/ML Components  
+opencv-python
+# Note: transformers 4.35.0 has Windows long path issues
+# Using a more recent version with better Windows compatibility
+transformers>=4.40.0
+numpy==1.26.4
+scikit-learn==1.3.2
+
+# Data & Visualization
+pandas==2.0.3
+plotly==5.17.0
+streamlit==1.28.0
+redis==5.0.1
+
+# Simulation & APIs
+requests==2.31.0
+faker==20.1.0
+websockets==12.0
+
+# Additional dependencies
+python-dotenv==1.0.0
+pydantic==2.5.0
+asyncio-mqtt==0.16.1
+Pillow>=10.0.0
+
+# Map Visualization
+folium>=0.20.0
+streamlit-folium>=0.25.1 
