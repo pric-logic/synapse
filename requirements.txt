@@ -5,19 +5,20 @@ uvicorn
 pydantic
 python-dotenv==1.0.0
 Pillow>=10.0.0
+streamlit==1.28.0
 
 # Optional packages (uncomment if needed)
-# langchain
-# langchain-google-genai==0.0.11
-# langchain-community
+langchain
+langchain-google-genai==0.0.11
+langchain-community
 # langgraph
 # opencv-python
-# numpy==1.26.4
-# pandas==2.0.3
-# plotly==5.17.0
+numpy
+pandas
+plotly
 # streamlit==1.28.0
-# redis==5.0.1
-# requests==2.31.0
-# faker==20.1.0
-# websockets==12.0
-# asyncio-mqtt==0.16.1
+redis==5.0.1
+requests==2.31.0
+faker==20.1.0
+websockets
+asyncio-mqtt==0.16.1
