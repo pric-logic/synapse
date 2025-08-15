@@ -8,7 +8,7 @@ from typing import Dict, List, Any, Optional
 from datetime import datetime
 import random
 import numpy as np
-import cv2
+#import cv2
 from PIL import Image, ImageDraw, ImageFont
 import io
 import base64
