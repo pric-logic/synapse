@@ -8,9 +8,9 @@ Pillow>=10.0.0
 streamlit==1.28.0
 
 # Optional packages (uncomment if needed)
-langchain
-langchain-google-genai
-langchain-community
+#langchain
+#langchain-google-genai
+#langchain-community
 # langgraph
 # opencv-python
 numpy
